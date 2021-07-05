@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    
+}
+section{
+    display: flex;
+
+}
+.top{
+    width: 50%;
+
+}
+.top img{
+    width: 70%;
+    padding-left: 120px;
+    padding-top: 100px;
+    
+}
+.welcome{
+    color: orange;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    padding-left: 130px;
+
+}
+
+.biriyani{
+    font-size: medium;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+}
+
+.firstpara{
+    padding-top: 50px;
+    padding-left: 30px;
+}
+.secondpara{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.topsection{
+    background-image: url(topbanner.png);
+    background-repeat: no-repeat;
+}
+.bottom{
+    width: 50%;
+    padding-top: 90px;
+}
+.bottom img{
+    width: 70%;
+    padding-left: 70px;
+    
+}
+.bottompara{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    padding-right: 30px;
+    
+}
+.bottomsection{
+    background-image: url(dream-bg.png);
+    background-position:right;
+    background-repeat: no-repeat;
+}
+.lastsection{
+    margin-top: 150px;
+    margin-bottom: 100px;
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    
+}
+.degh{
+    width: 30%;
+     margin-left: 130px;
+    border-left: 10px solid;
+    border-image:linear-gradient(red,tomato);
+    border-image-slice: 1;
+    box-shadow: 10px 10px 10px 10px gray
+    
+    
+    
+}
+.degh2{
+    width: 30%;
+    margin-left: 230px;
+    border-left: 10px solid;
+    border-image:linear-gradient(blue, purple);
+    border-image-slice: 1;
+    box-shadow: 10px 10px 10px 10px gray
+    
+}
+.biriyanidegh{
+    color: orange;
+    font-size: 45px;
+    margin-left: 40px;
+}
+.biriyanidegh2{
+    color: orange;
+    font-size: 45px;
+    margin-left: 30px;
+}
+
+    
+
+
